@@ -12,4 +12,5 @@
 
 ### 参考文章地址：
 
-  [参考文章地址]: http://tumumu.cn/2017/05/02/deep-learning-face/
+* 参考文章：
+ [文章地址]: http://tumumu.cn/2017/05/02/deep-learning-face/
